@@ -57,7 +57,7 @@ if [ $? -ne 0 ]; then
 else
     echo -e "\033[32m[INFO] Required Modules are already installed.\033[0m"
 fi
-
+clear
 # Ask user for the folder path
 read -p 'Path to folder (e.g., /home/username/Projects): ' SERVE_FOLDER
 
