@@ -25,7 +25,9 @@ sudo ./Server_runner.sh
 
 - When prompted, **enter the path to your project folder** (where your `index.html` file is located).
 - Press `Enter`, and... **Boom!** 🎉  
-  Your live server will start with default browser automatically with a beautiful banner.
+  Your live server will start with the default browser automatically with a beautiful banner.
+
+![image](https://github.com/user-attachments/assets/1b81577c-7a8a-46a1-8c9b-bf8737aa6d99)
 
 Enjoy your development experience!
 
