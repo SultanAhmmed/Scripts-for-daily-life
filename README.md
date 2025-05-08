@@ -1,4 +1,4 @@
 # Scripts-for-daily-life
 
-# I am very exited to create scripts for my and people deaily life use which help to automate the boring staff.
+*** I am very excited to create scripts for my and other people's daily use that help automate the boring tasks. **
 
