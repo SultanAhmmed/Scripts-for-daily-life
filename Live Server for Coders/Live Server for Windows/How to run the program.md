@@ -20,6 +20,8 @@ You don't have to do anything complicated — just follow these super simple ste
 - Press `Enter`, and... **Boom!** 🎉  
   Your live server will start with default browser automatically with a beautiful banner.
 
+![image](https://github.com/user-attachments/assets/ba4a1a32-8794-4cb2-81f3-982a9a938d94)
+
 Enjoy your development experience!
 
 ---
