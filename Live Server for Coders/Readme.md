@@ -1,7 +1,3 @@
-Here’s a sample `README.md` file for your **Live Server HTML/CSS/JS Project** that you can modify based on your specific project details:
-
----
-
 # 🚀 Live Server HTML/CSS/JavaScript Project
 
 This project is a simple setup for building and testing front-end applications using **HTML**, **CSS**, and **JavaScript** with **Live Server** integration. It enables real-time preview and automatic browser refresh on file changes, speeding up the front-end development process.
@@ -59,18 +55,8 @@ project-root/
 * You can add more pages or organize your files into folders (e.g., `assets/`, `css/`, `js/`, etc.).
 * The live server works best for development; for deployment, use GitHub Pages, Netlify, or Vercel.
 
----
-
-## 📷 Screenshots (Optional)
-
-*Add screenshots of your project if available.*
-
----
 
 ## 🧑‍💻 Author
 
 **Sultan Ahmmed**
 
----
-
-Let me know if you'd like to add specific project details (like what it does or unique features), and I’ll tailor it further!
